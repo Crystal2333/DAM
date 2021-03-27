@@ -1,4 +1,4 @@
 # DAM
 Coming Soon...
 
-Dual Attention Guided Gaze Target Detection in the Wild
+CVPR 2021: Dual Attention Guided Gaze Target Detection in the Wild
