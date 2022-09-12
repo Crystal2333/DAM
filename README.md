@@ -1,4 +1,3 @@
 # DAM
-Coming Soon...
 
-CVPR 2021: Dual Attention Guided Gaze Target Detection in the Wild
+The original email account is out of service due to graduation. Please contact the current email [fysjtu@gmail.com]fysjtu@gmail.com) if you have any questions.
